@@ -1,6 +1,9 @@
 # API - Vehicles data
 
-This is a general purpose application for communicating data from vehicles through GPS tracking.
+This is a general purpose server app for communicating vehicles data from Android GPS tracking.
+
+To complete the project visit:
+[Android GPS tracking](https://github.com/JosephWesker/navi-android-gps-tracking)
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
