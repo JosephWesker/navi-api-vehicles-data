@@ -1,0 +1,7 @@
+{
+  "name": "API - Vehicles data",
+  "description": "General purpose application for communicating data from vehicles through GPS tracking",
+  "website": "https://github.com/JosephWesker/navi-api-vehicles-data",
+  "success_url": "/",
+  "addons": [ "heroku-postgresql" ]
+}
