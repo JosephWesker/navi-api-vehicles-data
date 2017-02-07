@@ -7,7 +7,7 @@ To complete the project visit:
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-Or follow these steps, after installing the [Heroku Toolbelt](https://toolbelt.heroku.com/), to deploy with Maven:
+Or follow these steps, after installing the [Heroku CLI](https://toolbelt.heroku.com/), to deploy with Maven:
 
 ```sh-session
 $ git clone https://github.com/JosephWesker/navi-api-vehicles-data.git
